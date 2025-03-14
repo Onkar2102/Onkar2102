@@ -33,24 +33,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 🏆 **Pinned Projects**  
-
-📌 **[Automated Software Refactoring Commit Classifier](https://github.com/Onkar2102/RefactoringClassifier)**  
-🔹 **ML-powered classifier** to track software refactoring with **87% F1-score**  
-🔹 **Tech:** Deep Neural Networks, NLP, Python, Software Metrics  
-
-📌 **[Predictive Analytics for NYC Taxi System](https://github.com/Onkar2102/NYC-Taxi-Prediction)**  
-🔹 **Built a model to predict NYC taxi fares & tips** with **0.92 R² score**  
-🔹 **Tech:** Apache Spark, Flask, Random Forest, AWS S3, Power BI  
-
-📌 **[Operations Analytics Dashboard](https://github.com/Onkar2102/Operations-Dashboard)**  
-🔹 **Designed a Splunk-based dashboard** for real-time insights on **100K+ clients**  
-🔹 **Tech:** Splunk, KPI Analysis, MongoDB, Anomaly Detection  
-
-⭐ **Check out more projects in my repos!**  
-
----
-
 ## 📊 **GitHub Activity & Stats**  
 
 📌 **Contribution Trends**  
@@ -61,12 +43,12 @@ Here are some ideas to get you started:
 📌 **Profile Insights**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Onkar2102&show_icons=true&theme=dark" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onkar2102&theme=dark" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onkar2102&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
 </p>
 
 📌 **Most Used Languages**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar2102&layout=compact&theme=dark" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar2102&layout=compact&theme=radical&langs_count=6&hide=jupyter%20notebook" alt="Top Languages" width="49%" />
 </p>
 
 ---
