@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Onkar2102/Onkar2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -115,9 +113,4 @@ Here are some ideas to get you started:
 
 🚀 **Looking for exciting opportunities in 2025** | 🔥 **Always open to networking and collaborations**  
 ⭐ **Check out my projects & let’s connect!** 😃  
-
-# 😂 Random Dev Jokes
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ---
