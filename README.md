@@ -56,3 +56,25 @@ Here are some ideas to get you started:
 🚀 **Looking for exciting opportunities in 2025** | 🔥 **Always open to networking and collaborations**  
 ⭐ **Check out my projects & let’s connect!** 😃  
 ---
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Onkar2102&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar2102&layout=compact&langs_count=8&theme=algolia"/>
+</p>
+--- 
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onkar2102&theme=algolia" alt="GitHub Streak"/>
+</p>
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Onkar2102&theme=juicyfresh&no-bg=true" />
+</p>
+---
+## 😂 Random Developer Joke
+<p align="center"><img src="https://readme-jokes.vercel.app/api" alt="Joke Card" /></p>
+---
+  	<img src="https://profile-counter.glitch.me/{Onkar2102}/count.svg" />
+
