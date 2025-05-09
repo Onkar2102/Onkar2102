@@ -12,11 +12,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
+**Onkar2102/Onkar2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 <h1 align="center">Hey there, I'm Onkar Shelar! 👋</h1>
 
 <p align="center">
-🎓 Data Science Grad Student | 💻 ML & DevOps Enthusiast | 🚀 Open to Work (2025)
+  🎓 Data Science Grad Student | 💻 ML & DevOps Enthusiast | 🚀 Open to Work (2025)
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Lives-Rochester%2C%20NY-success" alt="Lives in Rochester" />
+  <img src="https://komarev.com/ghpvc/?username=Onkar2102&color=brightgreen" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Onkar2102?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Onkar2102?label=Stars&style=social" alt="GitHub Stars" />
 </p>
 
 ---
@@ -24,7 +34,7 @@ Here are some ideas to get you started:
 ## 🚀 About Me  
 
 👨‍🎓 **Master’s Student in Data Science** at **Rochester Institute of Technology (RIT)** (GPA: 3.86/4.00)  
-💡 **Ex-DevOps Software Engineer @Paychex** | **Ex-Associate Data Engineer @Fractal Analytics**  
+💡 **Ex-DevOps Software Engineer @ Paychex** | **Ex-Associate Data Engineer @ Fractal Analytics**  
 🧠 Passionate about **Big Data, Machine Learning, NLP, and Cloud Technologies**  
 📈 **Building scalable data pipelines & AI-driven insights**  
 🎯 **Actively seeking full-time roles in 2025** (Data Science | ML | DevOps)  
@@ -33,19 +43,27 @@ Here are some ideas to get you started:
 
 ---
 
-## 🛠 **Tech Stack & Tools**  
+## 🛠 Tech Stack & Tools  
 
-🚀 **Languages:** Python, Java, R, Bash  
-📊 **Data Engineering:** Apache Spark, Databricks, ETL, Azure, Delta Lake  
-📈 **Analytics & Databases:** MySQL, MongoDB, Neo4j, Power BI, Data Modeling  
-🤖 **Machine Learning:** NLP, LLMs, Feature Engineering, Neural Networks  
-⚙️ **DevOps & Tools:** Git, CI/CD, Docker, Kubernetes, Agile, Splunk  
+## 💻 Languages
 
-💡 **Always exploring new tech and solving problems one line of code at a time!**  
+- **Python** – Primary language for ML, data pipelines, and scripting  
+- **Java** – Strong background in object-oriented programming  
+- **R** – For statistical modeling and hypothesis testing  
+- **SQL** – Advanced querying, indexing, and data transformation  
+- **Bash** – Used for automation and deployment tasks
+
+### 🔧 Tools & Technologies
+- **Data Engineering:** Apache Spark, Databricks, ETL, Azure, Delta Lake  
+- **Analytics & Databases:** MySQL, MongoDB, Neo4j, Power BI, ER/Data Modeling  
+- **Machine Learning & AI:** NLP, LLMs, Transformers, Scikit-Learn, TensorFlow, PyTorch  
+- **DevOps & Monitoring:** Git, Docker, Kubernetes, Jenkins, CI/CD, Agile, Splunk  
+
+📚 Constantly exploring new technologies & improving engineering workflows.
 
 ---
 
-## 📜 **Certifications**  
+## 📜 Certifications  
 
 ✅ **Microsoft Azure Data Engineer Associate (DP-203)**  
 ✅ **Power BI Data Analyst Associate (PL-300)**  
@@ -53,28 +71,46 @@ Here are some ideas to get you started:
 
 ---
 
-🚀 **Looking for exciting opportunities in 2025** | 🔥 **Always open to networking and collaborations**  
-⭐ **Check out my projects & let’s connect!** 😃  
----
 ## 📊 GitHub Analytics
 
-
 <p align="center">
-<a href="https://github.com/Onkar2102">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Onkar2102&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Onkar2102&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Onkar2102&show_icons=true&theme=algolia&count_private=true" height="180em" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar2102&layout=compact&langs_count=8&theme=algolia" height="180em" alt="Top Languages" />
 </p>
+
 ---
+
 ## 🔥 Streak Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onkar2102&theme=algolia" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onkar2102&theme=algolia" alt="Streak Stats" />
 </p>
+
 ---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Onkar2102&theme=juicyfresh&no-bg=true" alt="Trophies" />
+</p>
+
+---
+
+## 🧮 Contribution Metrics
+
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=Onkar2102" alt="GitHub Contribution Metrics" />
+</p>
+
+---
+
 ## 😂 Random Developer Joke
-<p align="center"><img src="https://readme-jokes.vercel.app/api" alt="Joke Card" /></p>
----
-  	<img src="https://profile-counter.glitch.me/{Onkar2102}/count.svg" />
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Random Joke" />
+</p>
+
 ---
 
-
+🚀 **Looking for exciting opportunities in 2025** | 🔥 **Always open to networking and collaborations**  
+⭐ **Check out my projects & let’s connect!** 😃
