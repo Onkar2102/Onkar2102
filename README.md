@@ -88,13 +88,5 @@ Here are some ideas to get you started:
 
 ---
 
-## 🧮 Contribution Metrics
-
-<p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=Onkar2102" alt="GitHub Contribution Metrics" />
-</p>
-
----
-
 🚀 **Looking for exciting opportunities in 2025** | 🔥 **Always open to networking and collaborations**  
 ⭐ **Check out my projects & let’s connect!** 😃
