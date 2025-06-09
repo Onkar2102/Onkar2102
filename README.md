@@ -88,26 +88,10 @@ Here are some ideas to get you started:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Onkar2102&theme=juicyfresh&no-bg=true" alt="Trophies" />
-</p>
-
----
-
 ## 🧮 Contribution Metrics
 
 <p align="center">
   <img src="https://github-contribution-stats.vercel.app/api/?username=Onkar2102" alt="GitHub Contribution Metrics" />
-</p>
-
----
-
-## 😂 Random Developer Joke
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Random Joke" />
 </p>
 
 ---
