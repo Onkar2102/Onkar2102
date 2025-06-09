@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 <h1 align="center">Hey there, I'm Onkar Shelar! 👋</h1>
 
 <p align="center">
-  🎓 Data Science Grad Student | 💻 ML & DevOps Enthusiast | 🚀 Open to Work (2025)
+  🎓 Data Science Grad Student | 💻 ML & DevOps Enthusiast | 🚀 Open to Work (2026)
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Lives-Rochester%2C%20NY-success" alt="Lives in Rochester" />
+<!--   <img src="https://img.shields.io/badge/Lives-Rochester%2C%20NY-success" alt="Lives in Rochester" /> -->
   <img src="https://komarev.com/ghpvc/?username=Onkar2102&color=brightgreen" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Onkar2102?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Onkar2102?label=Stars&style=social" alt="GitHub Stars" />
+<!--   <img src="https://img.shields.io/github/followers/Onkar2102?label=Followers&style=social" alt="GitHub Followers" /> -->
+<!--   <img src="https://img.shields.io/github/stars/Onkar2102?label=Stars&style=social" alt="GitHub Stars" /> -->
 </p>
 
 ---
