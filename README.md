@@ -27,16 +27,13 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=Onkar2102&color=brightgreen" alt="Profile Views" />
 <!--   <img src="https://img.shields.io/github/followers/Onkar2102?label=Followers&style=social" alt="GitHub Followers" /> -->
 <!--   <img src="https://img.shields.io/github/stars/Onkar2102?label=Stars&style=social" alt="GitHub Stars" /> -->
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar2102&layout=compact&langs_count=8&theme=algolia" height="180em" alt="Top Languages" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar2102&layout=compact&langs_count=8&theme=algolia" height="180em" alt="Top Languages" />
-</p>
 ## 🚀 About Me  
 
 👨‍🎓 **Master’s Student in Data Science** at **Rochester Institute of Technology (RIT)** (GPA: 3.86/4.00)  
