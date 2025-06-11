@@ -27,24 +27,15 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=Onkar2102&color=brightgreen" alt="Profile Views" />
 <!--   <img src="https://img.shields.io/github/followers/Onkar2102?label=Followers&style=social" alt="GitHub Followers" /> -->
 <!--   <img src="https://img.shields.io/github/stars/Onkar2102?label=Stars&style=social" alt="GitHub Stars" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar2102&layout=compact&langs_count=8&theme=algolia" height="180em" alt="Top Languages" />
 </p>
 
 ---
-<h1 align="center">Hey there, I'm Onkar Shelar! 👋</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Onkar2102&color=brightgreen" alt="Profile Views" />
-</p>
-
-...
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Onkar2102&show_icons=true&theme=algolia&count_private=true" height="180em" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar2102&layout=compact&langs_count=8&theme=algolia" height="180em" alt="Top Languages" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Onkar2102&color=brightgreen" alt="Profile Views" />
 </p>
 ## 🚀 About Me  
 
