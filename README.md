@@ -64,30 +64,6 @@ Here are some ideas to get you started:
 
 📚 Constantly exploring new technologies & improving engineering workflows.
 
----
-
-## 📜 Certifications  
-
-✅ **Microsoft Azure Data Engineer Associate (DP-203)**  
-✅ **Power BI Data Analyst Associate (PL-300)**  
-✅ **Databricks Accredited Lakehouse Fundamentals**  
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Onkar2102&show_icons=true&theme=algolia&count_private=true" height="180em" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar2102&layout=compact&langs_count=8&theme=algolia" height="180em" alt="Top Languages" />
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onkar2102&theme=algolia" alt="Streak Stats" />
-</p>
 
 ---
 
