@@ -29,18 +29,23 @@ Here are some ideas to get you started:
 <!--   <img src="https://img.shields.io/github/stars/Onkar2102?label=Stars&style=social" alt="GitHub Stars" /> -->
 </p>
 
+---
 <h1 align="center">Hey there, I'm Onkar Shelar! 👋</h1>
 
 <p align="center">
-  <!-- Profile Viewers Badge -->
   <img src="https://komarev.com/ghpvc/?username=Onkar2102&color=brightgreen" alt="Profile Views" />
-  <!-- GitHub Stats Badge (small) -->
-  <img src="https://img.shields.io/github/stats/Onkar2102?style=flat-square&logo=github&label=GitHub%20Stats" alt="GitHub Stats" />
-  <!-- Most Used Languages Badge (small) -->
-  <img src="https://img.shields.io/github/languages/top/Onkar2102/Onkar2102?style=flat-square&logo=python&label=Top%20Language" alt="Top Language" />
 </p>
----
 
+...
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Onkar2102&show_icons=true&theme=algolia&count_private=true" height="180em" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar2102&layout=compact&langs_count=8&theme=algolia" height="180em" alt="Top Languages" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Onkar2102&color=brightgreen" alt="Profile Views" />
+</p>
 ## 🚀 About Me  
 
 👨‍🎓 **Master’s Student in Data Science** at **Rochester Institute of Technology (RIT)** (GPA: 3.86/4.00)  
