@@ -29,6 +29,16 @@ Here are some ideas to get you started:
 <!--   <img src="https://img.shields.io/github/stars/Onkar2102?label=Stars&style=social" alt="GitHub Stars" /> -->
 </p>
 
+<h1 align="center">Hey there, I'm Onkar Shelar! 👋</h1>
+
+<p align="center">
+  <!-- Profile Viewers Badge -->
+  <img src="https://komarev.com/ghpvc/?username=Onkar2102&color=brightgreen" alt="Profile Views" />
+  <!-- GitHub Stats Badge (small) -->
+  <img src="https://img.shields.io/github/stats/Onkar2102?style=flat-square&logo=github&label=GitHub%20Stats" alt="GitHub Stats" />
+  <!-- Most Used Languages Badge (small) -->
+  <img src="https://img.shields.io/github/languages/top/Onkar2102/Onkar2102?style=flat-square&logo=python&label=Top%20Language" alt="Top Language" />
+</p>
 ---
 
 ## 🚀 About Me  
