@@ -16,18 +16,16 @@ Here are some ideas to get you started:
 **Onkar2102/Onkar2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<!-- Creative Banner -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Onkar2102&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&icon_color=00D4AA&include_all_commits=true&count_private=true&custom_title=Onkar%20Shelar%20%7C%20Data%20Scientist%20%7C%20ML%20Engineer" alt="Creative Banner" />
-</div>
 
-<!-- Animated Banner -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Onkar!;Data+%7C+Dreams+%7C+Dharma" alt="Typing SVG" />
-</div>
+<!-- Dynamic High‑Quality Banner -->
+<p align="center">
+  <a href="https://github.com/Onkar2102" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:FF6F00&height=230&section=header&text=Hey%20there,%20I'm%20Onkar!&fontSize=38&fontAlign=50&fontAlignY=40&fontColor=FFFFFF&desc=Data%20%7C%20Dreams%20%7C%20Dharma&descSize=20&descAlign=50&descAlignY=65&animation=twinkling" alt="Onkar Shelar — Data | Dreams | Dharma" width="100%" />
+  </a>
+</p>
 
 <p align="center">
-  🎓 Data Science Grad Student | 💻 ML & DevOps Enthusiast | 🚀 Open to Work (2025)
+  🎓 Data Science Grad Student | 💻 ML & DevOps Enthusiast | 🚀 Open to Work (2026)
 </p>
 
 <div align="center">
@@ -48,7 +46,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 About Me  
+## About Me  
 
 👨‍🎓 **Master's Student in Data Science** at **Rochester Institute of Technology (RIT)** (GPA: 3.86/4.00)  
 💡 **Ex-DevOps Software Engineer @ Paychex** | **Ex-Associate Data Engineer @ Fractal Analytics**  
@@ -60,7 +58,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🔥 Currently Working On
+## Currently Working On
 
 - 🧠 **NLP Research Project** - Developing transformer-based models for text analysis
 - ☁️ **Cloud Migration** - Migrating legacy systems to Azure with containerization
@@ -69,16 +67,16 @@ Here are some ideas to get you started:
 
 ---
 
-## 🛠 Tech Stack & Tools  
+## Tech Stack & Tools  
 
-### 💻 Languages & Frameworks
+### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🤖 Machine Learning
+### Machine Learning
 ![Neural Networks](https://img.shields.io/badge/Neural_Networks-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -86,7 +84,7 @@ Here are some ideas to get you started:
 ![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### 🔧 Data Engineering
+### Data Engineering
 ![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -96,66 +94,55 @@ Here are some ideas to get you started:
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
-### 🚀 MLOps
+### MLOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Stakeholder Collaboration](https://img.shields.io/badge/Stakeholder_Collaboration-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 📊 Product & Analytics
+### Product & Analytics
 ![A/B Testing](https://img.shields.io/badge/A/B_Testing-FF6B6B?style=for-the-badge&logo=google-analytics&logoColor=white)
 ![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-FF6B6B?style=for-the-badge&logo=google-analytics&logoColor=white)
 ![Product Metrics](https://img.shields.io/badge/Product_Metrics-FF6B6B?style=for-the-badge&logo=google-analytics&logoColor=white)
 
 ---
 
-## 📊 Comprehensive GitHub Analytics Dashboard
+## GitHub Analytics Dashboard
 
+### Activity Overview
 <div align="center">
-  <h2>🎯 Complete Development Analytics</h2>
-  <p><em>Historical data analysis from account creation to present</em></p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onkar2102&theme=default&hide_border=true&background=FFFFFF&stroke=2E3440&ring=5E81AC&fire=BF616A&currStreakNum=2E3440&currStreakLabel=5E81AC&sideNums=2E3440&sideLabels=5E81AC&dates=2E3440" alt="GitHub Streak" />
 </div>
 
-### 🔥 Activity Overview
+<!-- ### Historical Contribution Analysis -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onkar2102&theme=radical&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakNum=FFFFFF&currStreakLabel=00D4AA&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onkar2102&theme=default&hide_border=true&bg_color=FFFFFF&color=2E3440&line=5E81AC&point=BF616A&area=true&area_color=D8DEE9&custom_title=Complete%20Contribution%20History%20%7C%20All%20Time%20Data&height=500&hide_title=false" alt="Complete GitHub Activity Graph" />
 </div>
 
-### 📈 Historical Contribution Analysis
+<!-- ### Repository & Language Analytics -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onkar2102&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FFFFFF&area=true&area_color=00D4AA&custom_title=Complete%20Contribution%20History%20%7C%20All%20Time%20Data&height=500&hide_title=false" alt="Complete GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar2102&layout=compact&langs_count=10&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2E3440&text_color=2E3440&custom_title=Language%20Proficiency%20%7C%20All%20Repositories" height="200em" alt="Top Languages" />
 </div>
 
-### 🗂️ Repository & Language Analytics
+### Detailed Performance Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar2102&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&custom_title=Language%20Proficiency%20%7C%20All%20Repositories" height="200em" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Onkar2102&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2E3440&text_color=2E3440&custom_title=Profile%20Analytics%20%7C%20Complete%20Overview" alt="Profile Details" />
 </div>
 
-### 📊 Detailed Performance Metrics
+### Achievement & Recognition
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Onkar2102&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&custom_title=Profile%20Analytics%20%7C%20Complete%20Overview" alt="Profile Details" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Onkar2102&theme=default&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1&column=7&custom_title=GitHub%20Achievements%20%7C%20Milestones%20Reached" alt="GitHub Trophies" />
 </div>
 
-### 🏆 Achievement & Recognition
+### Productivity & Time Analysis
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Onkar2102&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1&column=7&custom_title=GitHub%20Achievements%20%7C%20Milestones%20Reached" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Onkar2102&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2E3440&text_color=2E3440&utcOffset=8&custom_title=Productivity%20Patterns%20%7C%20Peak%20Hours" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Onkar2102&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2E3440&text_color=2E3440&custom_title=Statistical%20Overview%20%7C%20All%20Time%20Stats" alt="GitHub Stats" />
 </div>
 
-### 📅 Productivity & Time Analysis
+### Repository Deep Dive
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Onkar2102&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&utcOffset=8&custom_title=Productivity%20Patterns%20%7C%20Peak%20Hours" alt="Productive Time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Onkar2102&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&custom_title=Statistical%20Overview%20%7C%20All%20Time%20Stats" alt="GitHub Stats" />
-</div>
-
-### 🔍 Repository Deep Dive
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Onkar2102&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&custom_title=Repository%20Distribution%20%7C%20By%20Language" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Onkar2102&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&custom_title=Commit%20Analysis%20%7C%20Most%20Active%20Languages" alt="Most Commit Language" />
-</div>
-
-### 📊 Advanced Analytics Dashboard
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Onkar2102&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&icon_color=00D4AA&include_all_commits=true&count_private=true&custom_title=Advanced%20Metrics%20%7C%20Complete%20GitHub%20Analytics&hide=contribs,issues" alt="Advanced GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Onkar2102&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2E3440&text_color=2E3440&custom_title=Repository%20Distribution%20%7C%20By%20Language" alt="Repos per Language" />
 </div>
 
 ---
