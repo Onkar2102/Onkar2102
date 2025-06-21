@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Onkar!;Data+Science+%7C+ML+%7C+DevOps;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://github.com/Onkar2102/Onkar2102/assets/your-user-id/header-image.gif" alt="Header" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Onkar!;Data+%7C+Dreams+%7C+Dharma" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -38,18 +42,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Onkar2102&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onkar2102&theme=algolia&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakNum=FFFFFF&currStreakLabel=00D4AA&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar2102&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" height="180em" alt="Top Languages" />
 </div>
 
 ---
@@ -115,46 +107,47 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🤖 ML Model Deployment Pipeline</h3>
-      <p align="center">
-        End-to-end ML pipeline with automated training, testing, and deployment using Docker, MLflow, and Azure ML.
-      </p>
-      <p align="center">
-        <a href="https://github.com/Onkar2102/ml-deployment-pipeline" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-00D4AA?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📊 Real-time Data Streaming</h3>
-      <p align="center">
-        Apache Kafka-based streaming solution for real-time data processing with Spark Streaming and Elasticsearch.
-      </p>
-      <p align="center">
-        <a href="https://github.com/Onkar2102/streaming-pipeline" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-00D4AA?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📈 GitHub Activity
+## 📈 GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onkar2102&theme=algolia&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakNum=FFFFFF&currStreakLabel=00D4AA&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+</div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onkar2102&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FFFFFF&area=true&area_color=00D4AA&custom_title=GitHub%20Contribution%20Graph" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar2102&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" height="180em" alt="Top Languages" />
+</div>
+<div align="center">
+  <h3>🎯 Contribution Analytics Dashboard</h3>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onkar2102&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FFFFFF&area=true&area_color=00D4AA&custom_title=3D%20Contribution%20Graph%20%7C%20Days%20%7C%20Months%20%7C%20Years&height=400" alt="3D GitHub Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Onkar2102&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&icon_color=00D4AA&include_all_commits=true&count_private=true&custom_title=Detailed%20GitHub%20Metrics" alt="Detailed GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Onkar2102&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Onkar2102&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Onkar2102&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Onkar2102&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Onkar2102&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&utcOffset=8" alt="Productive Time" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Onkar2102&theme=algolia&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
 
 <div align="center">
-  <h3>🚀 Looking for exciting opportunities in 2025 | 🔥 Always open to networking and collaborations</h3>
+  <h3>🚀 Looking for exciting full-time opportunities in 2026 | 🔥 Always open to networking and collaborations</h3>
   <h4>⭐ Check out my projects & let's connect! 😃</h4>
 </div>
