@@ -69,41 +69,85 @@ Here are some ideas to get you started:
 
 ## Tech Stack & Tools  
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<div align="center">
+  <h3>🛠️ Technologies I Work With</h3>
+</div>
 
-### Machine Learning
-![Neural Networks](https://img.shields.io/badge/Neural_Networks-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h4>💻 Languages & Frameworks</h4>
+      <div>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <br>
+        <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+      </div>
+    </td>
+    <td align="center" width="50%">
+      <h4>🤖 Machine Learning & AI</h4>
+      <div>
+        <img src="https://img.shields.io/badge/Neural_Networks-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Neural Networks" />
+        <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Transformers" />
+        <br>
+        <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="NLP" />
+        <img src="https://img.shields.io/badge/Feature_Engineering-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Feature Engineering" />
+        <br>
+        <img src="https://img.shields.io/badge/Supervised_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Supervised Learning" />
+        <img src="https://img.shields.io/badge/Model_Evaluation-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Model Evaluation" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h4>☁️ Data Engineering & Cloud</h4>
+      <div>
+        <img src="https://img.shields.io/badge/ETL_Pipelines-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="ETL Pipelines" />
+        <img src="https://img.shields.io/badge/Data_Warehousing-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Data Warehousing" />
+        <br>
+        <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+        <img src="https://img.shields.io/badge/Data_Modeling-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Data Modeling" />
+        <br>
+        <img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <br>
+        <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="Cassandra" />
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
+      </div>
+    </td>
+    <td align="center" width="50%">
+      <h4>⚡ MLOps & DevOps</h4>
+      <div>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/CI/CD-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="CI/CD" />
+        <br>
+        <img src="https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Agile" />
+        <img src="https://img.shields.io/badge/Stakeholder_Collaboration-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Stakeholder Collaboration" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h4>📊 Product & Analytics</h4>
+      <div>
+        <img src="https://img.shields.io/badge/A/B_Testing-FF6B6B?style=for-the-badge&logo=google-analytics&logoColor=white" alt="A/B Testing" />
+        <img src="https://img.shields.io/badge/Hypothesis_Testing-FF6B6B?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Hypothesis Testing" />
+        <img src="https://img.shields.io/badge/Product_Metrics-FF6B6B?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Product Metrics" />
+      </div>
+    </td>
+  </tr>
+</table>
 
-### Data Engineering
-![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Data Modeling](https://img.shields.io/badge/Data_Modeling-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-
-### MLOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Stakeholder Collaboration](https://img.shields.io/badge/Stakeholder_Collaboration-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Product & Analytics
-![A/B Testing](https://img.shields.io/badge/A/B_Testing-FF6B6B?style=for-the-badge&logo=google-analytics&logoColor=white)
-![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-FF6B6B?style=for-the-badge&logo=google-analytics&logoColor=white)
-![Product Metrics](https://img.shields.io/badge/Product_Metrics-FF6B6B?style=for-the-badge&logo=google-analytics&logoColor=white)
+<div align="center">
+  <h4>🎯 Core Expertise Areas</h4>
+  <img src="https://img.shields.io/badge/Data_Science-FF6B6B?style=for-the-badge&logo=python&logoColor=white" alt="Data Science" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Data_Engineering-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Data Engineering" />
+  <img src="https://img.shields.io/badge/MLOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="MLOps" />
+  <img src="https://img.shields.io/badge/Analytics-FF6B6B?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Analytics" />
+</div>
 
 ---
 
@@ -114,19 +158,14 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onkar2102&theme=default&hide_border=true&background=FFFFFF&stroke=2E3440&ring=5E81AC&fire=BF616A&currStreakNum=2E3440&currStreakLabel=5E81AC&sideNums=2E3440&sideLabels=5E81AC&dates=2E3440" alt="GitHub Streak" />
 </div>
 
-<!-- 🐍 Contribution Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Onkar2102/Onkar2102/output/snake.svg" alt="Animated contribution snake" />
-</div>
-
-<!-- ### Historical Contribution Analysis -->
+### Historical Contribution Analysis
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onkar2102&theme=default&hide_border=true&bg_color=FFFFFF&color=2E3440&line=5E81AC&point=BF616A&area=true&area_color=D8DEE9&custom_title=Complete%20Contribution%20History%20%7C%20All%20Time%20Data&height=500&hide_title=false" alt="Complete GitHub Activity Graph" />
 </div>
 
-<!-- ### Repository & Language Analytics -->
+### Repository & Language Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar2102&layout=compact&langs_count=10&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2E3440&text_color=2E3440&custom_title=Language%20Proficiency%20%7C%20All%20Repositories" height="200em" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar2102&layout=compact&langs_count=10&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2E3440&text_color=2E3440&custom_title=Language%20Proficiency" height="200em" alt="Top Languages" />
 </div>
 
 ### Detailed Performance Metrics
@@ -148,11 +187,6 @@ Here are some ideas to get you started:
 ### Repository Deep Dive
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Onkar2102&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2E3440&text_color=2E3440&custom_title=Repository%20Distribution%20%7C%20By%20Language" alt="Repos per Language" />
-</div>
-
-<!-- 📊 Advanced Unified Metrics -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Onkar2102/Onkar2102/main/.github/images/metrics.svg" alt="Comprehensive GitHub Metrics" width="90%" />
 </div>
 
 ---
