@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 **Onkar2102/Onkar2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<!-- Creative Banner -->
 <div align="center">
-  <img src="https://github.com/Onkar2102/Onkar2102/assets/your-user-id/header-image.gif" alt="Header" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Onkar2102&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&icon_color=00D4AA&include_all_commits=true&count_private=true&custom_title=Onkar%20Shelar%20%7C%20Data%20Scientist%20%7C%20ML%20Engineer" alt="Creative Banner" />
 </div>
 
+<!-- Animated Banner -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Onkar!;Data+%7C+Dreams+%7C+Dharma" alt="Typing SVG" />
 </div>
@@ -107,42 +109,53 @@ Here are some ideas to get you started:
 
 ---
 
-## 📈 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onkar2102&theme=algolia&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakNum=FFFFFF&currStreakLabel=00D4AA&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-</div>
+## 📊 Comprehensive GitHub Analytics Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar2102&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" height="180em" alt="Top Languages" />
-</div>
-<div align="center">
-  <h3>🎯 Contribution Analytics Dashboard</h3>
+  <h2>🎯 Complete Development Analytics</h2>
+  <p><em>Historical data analysis from account creation to present</em></p>
 </div>
 
+### 🔥 Activity Overview
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onkar2102&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FFFFFF&area=true&area_color=00D4AA&custom_title=3D%20Contribution%20Graph%20%7C%20Days%20%7C%20Months%20%7C%20Years&height=400" alt="3D GitHub Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onkar2102&theme=radical&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakNum=FFFFFF&currStreakLabel=00D4AA&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
+### 📈 Historical Contribution Analysis
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Onkar2102&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&icon_color=00D4AA&include_all_commits=true&count_private=true&custom_title=Detailed%20GitHub%20Metrics" alt="Detailed GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onkar2102&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FFFFFF&area=true&area_color=00D4AA&custom_title=Complete%20Contribution%20History%20%7C%20All%20Time%20Data&height=500&hide_title=false" alt="Complete GitHub Activity Graph" />
 </div>
 
+### 🗂️ Repository & Language Analytics
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Onkar2102&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" alt="Profile Details" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar2102&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&custom_title=Language%20Proficiency%20%7C%20All%20Repositories" height="200em" alt="Top Languages" />
 </div>
 
+### 📊 Detailed Performance Metrics
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Onkar2102&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Onkar2102&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Onkar2102&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&custom_title=Profile%20Analytics%20%7C%20Complete%20Overview" alt="Profile Details" />
 </div>
 
+### 🏆 Achievement & Recognition
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Onkar2102&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Onkar2102&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&utcOffset=8" alt="Productive Time" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Onkar2102&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1&column=7&custom_title=GitHub%20Achievements%20%7C%20Milestones%20Reached" alt="GitHub Trophies" />
 </div>
 
+### 📅 Productivity & Time Analysis
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Onkar2102&theme=algolia&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Onkar2102&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&utcOffset=8&custom_title=Productivity%20Patterns%20%7C%20Peak%20Hours" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Onkar2102&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&custom_title=Statistical%20Overview%20%7C%20All%20Time%20Stats" alt="GitHub Stats" />
+</div>
+
+### 🔍 Repository Deep Dive
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Onkar2102&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&custom_title=Repository%20Distribution%20%7C%20By%20Language" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Onkar2102&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&custom_title=Commit%20Analysis%20%7C%20Most%20Active%20Languages" alt="Most Commit Language" />
+</div>
+
+### 📊 Advanced Analytics Dashboard
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Onkar2102&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&icon_color=00D4AA&include_all_commits=true&count_private=true&custom_title=Advanced%20Metrics%20%7C%20Complete%20GitHub%20Analytics&hide=contribs,issues" alt="Advanced GitHub Stats" />
 </div>
 
 ---
