@@ -114,6 +114,11 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onkar2102&theme=default&hide_border=true&background=FFFFFF&stroke=2E3440&ring=5E81AC&fire=BF616A&currStreakNum=2E3440&currStreakLabel=5E81AC&sideNums=2E3440&sideLabels=5E81AC&dates=2E3440" alt="GitHub Streak" />
 </div>
 
+<!-- 🐍 Contribution Snake -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Onkar2102/Onkar2102/output/snake.svg" alt="Animated contribution snake" />
+</div>
+
 <!-- ### Historical Contribution Analysis -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onkar2102&theme=default&hide_border=true&bg_color=FFFFFF&color=2E3440&line=5E81AC&point=BF616A&area=true&area_color=D8DEE9&custom_title=Complete%20Contribution%20History%20%7C%20All%20Time%20Data&height=500&hide_title=false" alt="Complete GitHub Activity Graph" />
@@ -143,6 +148,11 @@ Here are some ideas to get you started:
 ### Repository Deep Dive
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Onkar2102&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2E3440&text_color=2E3440&custom_title=Repository%20Distribution%20%7C%20By%20Language" alt="Repos per Language" />
+</div>
+
+<!-- 📊 Advanced Unified Metrics -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Onkar2102/Onkar2102/main/.github/images/metrics.svg" alt="Comprehensive GitHub Metrics" width="90%" />
 </div>
 
 ---
