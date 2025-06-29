@@ -161,10 +161,11 @@ Here are some ideas to get you started:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Onkar2102&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2E3440&text_color=2E3440&custom_title=Profile%20Analytics%20%7C%20Complete%20Overview" alt="Profile Details" />
 </div>
 
-### Achievement & Recognition
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Onkar2102&theme=default&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1&column=7&custom_title=GitHub%20Achievements%20%7C%20Milestones%20Reached" alt="GitHub Trophies" />
-</div>
+# ### Achievement & Recognition
+# <div align="center">
+#   <img src="https://github-profile-trophy.vercel.app/?username=Onkar2102&theme=default&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1&column=7&custom_title=GitHub%20Achievements%20%7C%20Milestones%20Reached" alt="GitHub Trophies" 
+# />
+# </div>
 
 ### Productivity & Time Analysis
 <div align="center">
