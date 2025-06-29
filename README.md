@@ -164,11 +164,6 @@ Here are some ideas to get you started:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Onkar2102&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2E3440&text_color=2E3440&custom_title=Statistical%20Overview%20%7C%20All%20Time%20Stats" alt="GitHub Stats" />
 </div>
 
-### Repository Deep Dive
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Onkar2102&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2E3440&text_color=2E3440&custom_title=Repository%20Distribution%20%7C%20By%20Language" alt="Repos per Language" />
-</div>
-
 ---
 
 <div align="center">
