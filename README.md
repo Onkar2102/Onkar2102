@@ -55,15 +55,6 @@ Here are some ideas to get you started:
 
 ---
 
-## Currently Working On
-
-- 🧠 **NLP Research Project** - Developing transformer-based models for text analysis
-- ☁️ **Cloud Migration** - Migrating legacy systems to Azure with containerization
-- 📊 **Data Pipeline Optimization** - Building real-time streaming solutions with Apache Kafka
-- 🤖 **ML Model Deployment** - Implementing MLOps practices with MLflow and Docker
-
----
-
 ## Tech Stack & Tools  
 
 <div align="center">
