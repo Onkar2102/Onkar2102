@@ -159,7 +159,6 @@ Here are some ideas to get you started:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Onkar2102&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2E3440&text_color=2E3440&custom_title=Profile%20Analytics%20%7C%20Complete%20Overview" alt="Profile Details" />
 </div>
 
-### Productivity & Time Analysis
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Onkar2102&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2E3440&text_color=2E3440&utcOffset=8&custom_title=Productivity%20Patterns%20%7C%20Peak%20Hours" alt="Productive Time" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Onkar2102&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2E3440&text_color=2E3440&custom_title=Statistical%20Overview%20%7C%20All%20Time%20Stats" alt="GitHub Stats" />
