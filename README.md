@@ -1,23 +1,3 @@
-<!--
-**Onkar2102/Onkar2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-**Onkar2102/Onkar2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-
-<!-- Dynamic High‑Quality Banner -->
 <p align="center">
   <a href="https://github.com/Onkar2102" target="_blank">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:FF6F00&height=230&section=header&text=Hey%20there,%20I'm%20Onkar!&fontSize=38&fontAlign=50&fontAlignY=40&fontColor=FFFFFF&desc=Data%20%7C%20Dreams%20%7C%20Dharma&descSize=20&descAlign=50&descAlignY=65&animation=twinkling" alt="Onkar Shelar — Data | Dreams | Dharma" width="100%" />
@@ -47,9 +27,8 @@ Here are some ideas to get you started:
 
 👨‍🎓 **Master's Student in Data Science** at **Rochester Institute of Technology (RIT)** (GPA: 3.86/4.00)  
 💡 **Ex-DevOps Software Engineer @ Paychex** | **Ex-Associate Data Engineer @ Fractal Analytics**  
-🧠 Passionate about **Big Data, Machine Learning, NLP, and Cloud Technologies**  
-📈 **Building scalable data pipelines & AI-driven insights**  
-🎯 **Actively seeking full-time roles in 2025** (Data Science | ML | DevOps)  
+🧠 Passionate about **Big Data, Machine Learning, NLP, and Intelligent Systems**  
+🎯 **Actively seeking full-time roles in 2026** (Data Science | ML | DevOps)  
 
 💬 **Fun Fact:** I can turn coffee ☕ into **clean, efficient code**! (Or at least I try. 😆)  
 
@@ -66,25 +45,24 @@ Here are some ideas to get you started:
     <td align="center" width="50%">
       <h4>💻 Languages & Frameworks</h4>
       <div>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+        <img src="https://img.shields.io/badge/PyTorch-2563EB?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
         <br>
-        <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Apache_Spark-2563EB?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+        <img src="https://img.shields.io/badge/Java-2563EB?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
       </div>
     </td>
     <td align="center" width="50%">
       <h4>🤖 Machine Learning & AI</h4>
       <div>
-        <img src="https://img.shields.io/badge/Neural_Networks-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Neural Networks" />
-        <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Transformers" />
+        <img src="https://img.shields.io/badge/Neural_Networks-6F42C1?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Neural Networks" />
         <br>
-        <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="NLP" />
-        <img src="https://img.shields.io/badge/Feature_Engineering-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Feature Engineering" />
+        <img src="https://img.shields.io/badge/NLP-6F42C1?style=for-the-badge&logo=tensorflow&logoColor=white" alt="NLP" />
+        <img src="https://img.shields.io/badge/Feature_Engineering-6F42C1?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Feature Engineering" />
         <br>
-        <img src="https://img.shields.io/badge/Supervised_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Supervised Learning" />
-        <img src="https://img.shields.io/badge/Model_Evaluation-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Model Evaluation" />
+        <img src="https://img.shields.io/badge/Supervised_Learning-6F42C1?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Supervised Learning" />
+        <img src="https://img.shields.io/badge/Model_Evaluation-6F42C1?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Model Evaluation" />
       </div>
     </td>
   </tr>
@@ -92,27 +70,27 @@ Here are some ideas to get you started:
     <td align="center" width="50%">
       <h4>☁️ Data Engineering & Cloud</h4>
       <div>
-        <img src="https://img.shields.io/badge/ETL_Pipelines-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="ETL Pipelines" />
-        <img src="https://img.shields.io/badge/Data_Warehousing-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Data Warehousing" />
+        <img src="https://img.shields.io/badge/ETL_Pipelines-FF6F00?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="ETL Pipelines" />
+        <img src="https://img.shields.io/badge/Data_Warehousing-FF6F00?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Data Warehousing" />
         <br>
-        <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-        <img src="https://img.shields.io/badge/Data_Modeling-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Data Modeling" />
+        <img src="https://img.shields.io/badge/Azure-FF6F00?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+        <img src="https://img.shields.io/badge/Data_Modeling-FF6F00?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Data Modeling" />
         <br>
-        <img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Neo4j-00B894?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
+        <img src="https://img.shields.io/badge/MongoDB-00B894?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
         <br>
-        <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="Cassandra" />
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
+        <img src="https://img.shields.io/badge/Cassandra-00B894?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="Cassandra" />
+        <img src="https://img.shields.io/badge/Power_BI-00B894?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI" />
       </div>
     </td>
     <td align="center" width="50%">
       <h4>⚡ MLOps & DevOps</h4>
       <div>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/CI/CD-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="CI/CD" />
+        <img src="https://img.shields.io/badge/Git-E91E63?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/CI/CD-E91E63?style=for-the-badge&logo=docker&logoColor=white" alt="CI/CD" />
         <br>
-        <img src="https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Agile" />
-        <img src="https://img.shields.io/badge/Stakeholder_Collaboration-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Stakeholder Collaboration" />
+        <img src="https://img.shields.io/badge/Agile-E91E63?style=for-the-badge&logo=docker&logoColor=white" alt="Agile" />
+        <img src="https://img.shields.io/badge/Stakeholder_Collaboration-E91E63?style=for-the-badge&logo=docker&logoColor=white" alt="Stakeholder Collaboration" />
       </div>
     </td>
   </tr>
@@ -120,9 +98,9 @@ Here are some ideas to get you started:
     <td align="center" colspan="2">
       <h4>📊 Product & Analytics</h4>
       <div>
-        <img src="https://img.shields.io/badge/A/B_Testing-FF6B6B?style=for-the-badge&logo=google-analytics&logoColor=white" alt="A/B Testing" />
-        <img src="https://img.shields.io/badge/Hypothesis_Testing-FF6B6B?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Hypothesis Testing" />
-        <img src="https://img.shields.io/badge/Product_Metrics-FF6B6B?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Product Metrics" />
+        <img src="https://img.shields.io/badge/A/B_Testing-27AE60?style=for-the-badge&logo=google-analytics&logoColor=white" alt="A/B Testing" />
+        <img src="https://img.shields.io/badge/Hypothesis_Testing-27AE60?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Hypothesis Testing" />
+        <img src="https://img.shields.io/badge/Product_Metrics-27AE60?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Product Metrics" />
       </div>
     </td>
   </tr>
@@ -130,11 +108,9 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h4>🎯 Core Expertise Areas</h4>
-  <img src="https://img.shields.io/badge/Data_Science-FF6B6B?style=for-the-badge&logo=python&logoColor=white" alt="Data Science" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Data_Engineering-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Data Engineering" />
-  <img src="https://img.shields.io/badge/MLOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="MLOps" />
-  <img src="https://img.shields.io/badge/Analytics-FF6B6B?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Analytics" />
+  <img src="https://img.shields.io/badge/Data_Science-27AE60?style=for-the-badge&logo=python&logoColor=white" alt="Big Data Analytics" />
+  <img src="https://img.shields.io/badge/Machine_Learning-6F42C1?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/MLOps-E91E63?style=for-the-badge&logo=docker&logoColor=white" alt="Artificial Intelligence" />
 </div>
 
 ---
