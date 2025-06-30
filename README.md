@@ -108,9 +108,9 @@
 
 <div align="center">
   <h4>🎯 Core Expertise Areas</h4>
-  <img src="https://img.shields.io/badge/Data_Science-27AE60?style=for-the-badge&logo=python&logoColor=white" alt="Big Data Analytics" />
+  <img src="https://img.shields.io/badge/Big_Data_Analytics-27AE60?style=for-the-badge&logo=python&logoColor=white" alt="Big Data Analytics" />
   <img src="https://img.shields.io/badge/Machine_Learning-6F42C1?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/MLOps-E91E63?style=for-the-badge&logo=docker&logoColor=white" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Artifiical_Intelligence-E91E63?style=for-the-badge&logo=docker&logoColor=white" alt="Artificial Intelligence" /> 
 </div>
 
 ---
