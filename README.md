@@ -117,10 +117,10 @@
 
 ## GitHub Analytics Dashboard
 
-### Activity Overview
+<!-- ### Activity Overview
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onkar2102&theme=default&hide_border=true&background=FFFFFF&stroke=2E3440&ring=5E81AC&fire=BF616A&currStreakNum=2E3440&currStreakLabel=5E81AC&sideNums=2E3440&sideLabels=5E81AC&dates=2E3440" alt="GitHub Streak" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onkar2102&theme=default&hide_border=true&bg_color=FFFFFF&color=2E3440&line=5E81AC&point=BF616A&area=true&area_color=D8DEE9&custom_title=Complete%20Contribution%20History%20%7C%20All%20Time%20Data&height=500&hide_title=false" alt="Complete GitHub Activity Graph" />
