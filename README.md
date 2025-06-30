@@ -150,9 +150,9 @@ Here are some ideas to get you started:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onkar2102&theme=default&hide_border=true&bg_color=FFFFFF&color=2E3440&line=5E81AC&point=BF616A&area=true&area_color=D8DEE9&custom_title=Complete%20Contribution%20History%20%7C%20All%20Time%20Data&height=500&hide_title=false" alt="Complete GitHub Activity Graph" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar2102&layout=compact&langs_count=10&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2E3440&text_color=2E3440&custom_title=Language%20Proficiency" height="200em" alt="Top Languages" />
-</div>
+</div> -->
 
 ### Detailed Performance Metrics
 <div align="center">
