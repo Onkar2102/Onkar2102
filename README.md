@@ -116,7 +116,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar2102&layout=compact&langs_count=10&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2E3440&text_color=2E3440&custom_title=Language%20Proficiency&v=3" height="200em" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar2102&layout=compact&langs_count=10&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2E3440&text_color=2E3440&custom_title=Language%20Proficiency&v=4" height="200em" alt="Top Languages" />
 </div>
 
 ### Detailed Performance Metrics
