@@ -23,17 +23,6 @@
 
 ---
 
-## About Me  
-
-👨‍🎓 **Master's Student in Data Science** at **Rochester Institute of Technology (RIT)** (GPA: 3.86/4.00)  
-💡 **Ex-DevOps Software Engineer @ Paychex** | **Ex-Associate Data Engineer @ Fractal Analytics**  
-🧠 Passionate about **Big Data, Machine Learning, NLP, and Intelligent Systems**  
-🎯 **Actively seeking full-time roles in 2026** (Data Science | ML | DevOps)  
-
-💬 **Fun Fact:** I can turn coffee ☕ into **clean, efficient code**! (Or at least I try. 😆)  
-
----
-
 ## Tech Stack & Tools  
 
 <div align="center">
