@@ -22,7 +22,7 @@
 </div>
 
 ---
-
+<!-- 
 ## Tech Stack & Tools  
 
 <div align="center">
@@ -102,7 +102,7 @@
   <img src="https://img.shields.io/badge/Artifiical_Intelligence-E91E63?style=for-the-badge&logo=docker&logoColor=white" alt="Artificial Intelligence" /> 
 </div>
 
----
+--- -->
 
 ## GitHub Analytics Dashboard
 
