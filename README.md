@@ -128,10 +128,3 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Onkar2102&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2E3440&text_color=2E3440&utcOffset=8&custom_title=Productivity%20Patterns%20%7C%20Peak%20Hours" alt="Productive Time" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Onkar2102&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2E3440&text_color=2E3440&custom_title=Statistical%20Overview%20%7C%20All%20Time%20Stats" alt="GitHub Stats" />
 </div>
-
----
-
-<div align="center">
-  <h3>🚀 Looking for exciting full-time opportunities in 2026 | 🔥 Always open to networking and collaborations</h3>
-  <h4>⭐ Check out my projects & let's connect! 😃</h4>
-</div>
