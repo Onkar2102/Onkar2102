@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🎓 Data Science Grad Student | 💻 ML & DevOps Enthusiast | 🚀 Open to Work (2026)
+  🎓 Data Science Grad Student | 🚀 Open to Work (2026)
 </p>
 
 <div align="center">
