@@ -4,9 +4,9 @@
   </a>
 </p>
 
-<p align="center">
-  🎓 Data Science Grad Student | 🚀 Open to Work (2026)
-</p>
+<!-- <p align="center"> -->
+  <!-- 🎓 Data Science Grad Student | 🚀 Open to Work (2026) -->
+<!-- </p> -->
 
 <div align="center">
   <a href="https://www.linkedin.com/in/onkarshelar/" target="_blank">
